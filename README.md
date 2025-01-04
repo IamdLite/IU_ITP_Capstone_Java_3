@@ -4,7 +4,7 @@
 
 The **Smart Home System** is designed to manage various smart devices: **Lights**, **Cameras**, and **Heaters**. Each device can be **activated** or **deactivated** and manipulated when in the **ON** state. Specific attributes and functionality vary per device type, as detailed below.
 
-![UML Diagram](https://espresso.codeforces.com/7b3ac8a5d665592d08111608caf5a0f27a3745e0.png)
+![UML Diagram](./uml.png)
 
 ---
 
@@ -63,7 +63,7 @@ The **Smart Home System** is designed to manage various smart devices: **Lights*
 
 ## Command Outputs
 
-![UML Diagram](https://espresso.codeforces.com/20947555c4d9d10a7cc0c0468545d46f0bc14e75.png)
+![Response Flow Diagram](./response_flow.png)
 
 
 ### **Success Messages**
