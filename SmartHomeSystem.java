@@ -6,7 +6,7 @@ import java.util.*;
  * SmartHomeManagementSystem is the main class that controls the others.
  * It is the main file of the program.
  */
-public class SmartHomeManagementSystem {
+public class SmartHomeSystem {
 
     private static final Scanner scanner = new Scanner(System.in);
 
